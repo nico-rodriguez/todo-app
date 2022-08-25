@@ -1,0 +1,34 @@
+.item {
+  display: flex;
+  align-items: baseline;
+}
+
+.item__check {
+  margin-right: 7px;
+  border: 1px solid #828282;
+  border-radius: 4px;
+}
+
+.item__text {
+  font-weight: 500;
+  font-size: 1.8rem;
+  line-height: 2.2rem;
+  color: #000000;
+}
+
+.item__text--checked {
+  text-decoration: line-through;
+}
+
+.item__text--unchecked {
+  text-decoration: none;
+}
+
+.material-icons {
+  margin-left: auto;
+  align-self: center;
+  color: #fd6009;
+  font-size: 1.8rem;
+  line-height: 2.2rem;
+  cursor: pointer;
+}
