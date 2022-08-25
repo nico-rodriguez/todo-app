@@ -53,6 +53,7 @@
   font-weight: 600;
   font-size: 1.2rem;
   line-height: 1.5rem;
+  cursor: pointer;
 }
 
 .delete-all-button .material-icons {

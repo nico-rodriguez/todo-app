@@ -7,6 +7,7 @@
   margin-right: 7px;
   border: 1px solid #828282;
   border-radius: 4px;
+  cursor: pointer;
 }
 
 .item__text {
@@ -14,6 +15,7 @@
   font-size: 1.8rem;
   line-height: 2.2rem;
   color: #000000;
+  cursor: pointer;
 }
 
 .item__text--checked {
